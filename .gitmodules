@@ -1,4 +1,6 @@
 [submodule "frontend"]
     path = frontend
     url = https://github.com/newisland-okinawa/frontend.git
-
+[submodule "kiji"]
+    path = kiji
+    url = https://github.com/newisland-okinawa/kiji.git
