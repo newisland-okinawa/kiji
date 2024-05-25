@@ -1,5 +1,14 @@
 {
-  "devDependencies": {
+  "name": "my_ebook_project",
+  "version": "1.0.0",
+  "description": "My eBook Project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build script goes here'"
+  },
+  "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-  }
+  },
+  "author": "Your Name",
+  "license": "ISC"
 }
