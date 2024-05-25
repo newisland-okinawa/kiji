@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import myImage from './assets/my-image.png'; // 画像ファイルをインポート
+import myImage from './assets/my-image.png'; // 正しいパスを確認
 import './index.css';
 
 function App() {
